@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TNT HD 1" tvg-logo="https://epgx.site/p/tnt.png",ТНТ HD
+#EXTINF:-1,ТНТ HD
 http://185.112.140.28/TNT_HD/index.m3u8
-#EXTINF:-1 tvg-id="TNT HD 2",TNT HD (1080p)
+#EXTINF:-1,TNT HD (1080p)
 http://91.205.199.3/tnthd/index.m3u8
-#EXTINF:-1 tvg-name="ТНТ" tvg-logo="https://i.imgur.com/1WqIPOB.png" tvg-id="TNT.ru",ТНТ
+#EXTINF:-1,ТНТ
 http://ott-cdn.ucom.am/s19/index.m3u8
-#EXTINF:0,ТНТ (rutube)
+#EXTINF:-1,ТНТ (rutube)
 http://video-4-206.rutube.ru/stream/10113616/546602986e6a424d74d594876ddb3f04/tracks-v1a1/mono.m3u8

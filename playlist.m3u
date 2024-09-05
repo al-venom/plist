@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,TNT HD
+http://185.112.140.28/TNT_HD/index.m3u8
+#EXTINF:-1,TNT HD (1080p)
+http://91.205.199.3/tnthd/index.m3u8
+#EXTINF:-1,TNT
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:0,TNT (rutube)
+http://video-4-206.rutube.ru/stream/10113616/546602986e6a424d74d594876ddb3f04/tracks-v1a1/mono.m3u8
